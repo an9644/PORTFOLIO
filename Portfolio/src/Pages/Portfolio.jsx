@@ -53,7 +53,7 @@ const Portfolio = () => {
      {/* <!-- Skills --> */}
       <section id='skills' className="p-4 mr-4 mt-32 border-2 border-teal-400 h-auto  rounded-lg shadow-lg shadow-teal-500  ">
         <div id="skills" className="py-4">
-        <div className="text-3xl text-white  font-bold border-2 border-teal-400 w-56 md:ml-[890px]  p-2 rounded-lg ">
+        <div className="text-3xl text-white  font-bold border-2 border-teal-400 w-56 md:ml-[730px]  p-2 rounded-lg ">
           <h1 className="sm:ml-8 ">  <span> &nbsp;Skills</span>    </h1>
         </div>
 
