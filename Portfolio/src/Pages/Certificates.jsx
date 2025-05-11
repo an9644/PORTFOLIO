@@ -15,18 +15,7 @@ const Certificates = () => {
                 <span className='text-teal-600'>Certificate Isssued by Kerala Blockchain Acadamy for completeing <b className='text-teal-400'>Developer Essentials</b> program</span>
                 <img className='ml-4 mt-6' src={cert1} alt="" width='240px' height='250px' />
                 </div>
-                {/* <div>
-                <span className='text-teal-600'>Certificate Isssued by Kerala Blockchain Acadamy for completeing <b className='text-teal-400'>Developer Essentials</b> program</span>
-                <img className='ml-4 mt-6' src={cert1} alt="" width='240px' height='250px' />
-                </div>
-                <div>
-                <span className='text-teal-600'>Certificate Isssued by Kerala Blockchain Acadamy for completeing <b className='text-teal-400'>Developer Essentials</b> program</span>
-                <img className='ml-4 mt-6' src={cert1} alt="" width='240px' height='250px' />
-                </div>
-                <div>
-                <span className='text-teal-600'>Certificate Isssued by Kerala Blockchain Acadamy for completeing <b className='text-teal-400'>Developer Essentials</b> program</span>
-                <img className='ml-4 mt-6' src={cert1} alt="" width='240px' height='250px' />
-                </div> */}
+                
         </div>  
                 
          </div>
